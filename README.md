@@ -59,7 +59,7 @@ To deploy the app on **Vercel**, run:
 ```sh
 vercel --prod
 ```
-Production Link: [Live App](insta-kz61df45t-poojapavans-projects.vercel.app)
+Production Link: [Live App](https://insta-gamma-three.vercel.app/)
 
 ## Folder Structure
 ```
