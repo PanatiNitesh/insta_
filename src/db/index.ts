@@ -6,7 +6,7 @@ const connectionString = process.env.DATABASE_URL;
 if (!connectionString)
   throw new Error("Missing DATABASE_URL environment variable");
 
-//create a client
+
 const client = postgres(connectionString, { max: 1 });
 
 //create database instance to intract with the database
