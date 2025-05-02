@@ -9,5 +9,5 @@ if (!connectionString)
 
 const client = postgres(connectionString, { max: 1 });
 
-//create database instance to intract with the database
+
 export const db = drizzle(client);
