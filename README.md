@@ -49,9 +49,9 @@ The app supports both **Light** and **Dark** mode using the `next-themes` packag
    ```
 
 4. **Run the app locally:**
-   ```sh
+   ``sh
    npm run dev
-   ```
+   ``
    The app will be available at `http://localhost:3000`
 
 ## Deployment
