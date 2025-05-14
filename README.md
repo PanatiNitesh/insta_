@@ -5,7 +5,7 @@ Insta Cloan is a modern social media application inspired by Instagram, built wi
 
 ## Features
 - 🔐 **User Authentication** - Sign up and log in with Clerk authentication.
-- 🏆 **Follow Profiles** - View and follow users from a dynamic profile list.
+- 🏆 **Follow Profiles** - View and follow users from a dynamic profile list
 - 📄 **Database Integration** - Uses Drizzle ORM with PostgreSQL.
 - 🎨 **Theming Support** - Light & Dark mode using `next-themes`.
 - 🚀 **Next.js API Routes** - Secure backend logic for user management.
