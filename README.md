@@ -56,9 +56,9 @@ The app supports both **Light** and **Dark** mode using the `next-themes` packag
 
 ## Deployment
 To deploy the app on **Vercel**, run:
-```sh
+``sh
 vercel --prod
-```
+``
 Production Link: [Live App](https://insta-gamma-three.vercel.app/)
 
 ## Folder Structure
