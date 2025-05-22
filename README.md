@@ -74,5 +74,5 @@ Production Link: [Live App](https://insta-gamma-three.vercel.app/)
 ```
 
 ## License
-MIT License © 2025 NITESH
+MIT License © 202
 
