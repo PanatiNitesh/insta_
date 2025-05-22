@@ -73,6 +73,3 @@ Production Link: [Live App](https://insta-gamma-three.vercel.app/)
  ┗ 📜 README.md    # Project documentation
 ```
 
-## License
-
-
