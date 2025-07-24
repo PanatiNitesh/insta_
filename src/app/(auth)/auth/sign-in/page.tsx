@@ -1,5 +1,5 @@
 import { SignIn } from "@clerk/nextjs";
-//sign
+//sign in
 export default function Page() {
   return (
     <div className="flex justify-center py-24">
