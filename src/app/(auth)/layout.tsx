@@ -1,5 +1,5 @@
 import { AtSignIcon } from "lucide-react";
-
+//layout
 export default function AuthLayout({
   children,
 }: Readonly<{
