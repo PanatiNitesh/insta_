@@ -27,7 +27,7 @@ User profile data is fetched from an external API (`https://api.slingacademy.com
 ### Theming with Next Themes
 The app supports both **Light** and **Dark** mode using the `next-themes` package. Users can switch between themes effortlessly, enhancing the user experience.
 
-## Installation
+    ## Installation
 
 1. **Clone the repository:**
    ```sh
